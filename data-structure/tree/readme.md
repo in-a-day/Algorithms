@@ -25,5 +25,7 @@
     <img src='../../static/image/small_tree_postorder.svg.png' />
 
 ##### 广度优先遍历:
+
 - 层次遍历:
+
     <img src='../../static/image/small_tree_levelorder.svg.png' />
