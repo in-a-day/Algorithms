@@ -11,12 +11,19 @@
 ---
 #### 遍历方式:
 ##### 深度优先遍历:
+
 - 前序遍历:
+
     <img src='../../static/image/small_tree_preorder.svg.png' />
+
 - 中序遍历:
+
     <img src='../../static/image/small_tree_inorder.svg.png' />
+
 - 后续遍历:
+
     <img src='../../static/image/small_tree_postorder.svg.png' />
+
 ##### 广度优先遍历:
 - 层次遍历:
     <img src='../../static/image/small_tree_levelorder.svg.png' />
